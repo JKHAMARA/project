@@ -23,7 +23,8 @@
               "src/assets"
             ],
             "styles": [
-              "src/styles.css"
+              "src/styles.css",
+              "C:/Users/Jealous Khamara/Desktop/secondAngularProject/node_modules/bootstrap/dist/css/bootstrap.min.css"
             ],
             "scripts": []
           },
@@ -90,7 +91,8 @@
               "src/assets"
             ],
             "styles": [
-              "src/styles.css"
+              "src/styles.css",
+              "C:/Users/Jealous Khamara/Desktop/secondAngularProject/node_modules/bootstrap/dist/css/bootstrap.min.css"
             ],
             "scripts": []
           }
