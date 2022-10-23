@@ -28,9 +28,9 @@
               "C:/Users/Jealous Khamara/Desktop/secondAngularProject/node_modules/bootstrap/dist/css/font-awesome.min.css"
             ],
             "scripts": [
-              "node_modules/jquery/dist/jquery.min.js",
-              "../node_modules/popper.js/dist/umd/popper.min.js",
-              "../node_modules/bootstrap/dist/js/bootstrap.min.js"
+              "C:/Users/Jealous Khamara/Desktop/secondAngularProject/node_modules/jquery/dist/jquery.min.js",
+              "C:/Users/Jealous Khamara/Desktop/secondAngularProject/node_modules/@popperjs/core/dist/umd/popper.min.js",
+              "C:/Users/Jealous Khamara/Desktop/secondAngularProject/node_modules/bootstrap/dist/js/bootstrap.min.js"
             ]
           },
           "configurations": {
@@ -102,9 +102,9 @@
 
             ],
             "scripts": [
-              "node_modules/jquery/dist/jquery.min.js",
-              "../node_modules/popper.js/dist/umd/popper.min.js",
-              "../node_modules/bootstrap/dist/js/bootstrap.min.js"
+              "C:/Users/Jealous Khamara/Desktop/secondAngularProject/node_modules/jquery/dist/jquery.min.js",
+              "C:/Users/Jealous Khamara/Desktop/secondAngularProject/node_modules/@popperjs/core/dist/umd/popper.min.js",
+              "C:/Users/Jealous Khamara/Desktop/secondAngularProject/node_modules/bootstrap/dist/js/bootstrap.min.js"
             ]
           }
         }
