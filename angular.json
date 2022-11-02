@@ -25,8 +25,7 @@
             "styles": [
               "src/styles.css",
               "C:/Users/Jealous Khamara/Desktop/secondAngularProject/node_modules/bootstrap/dist/css/bootstrap.min.css",
-              "C:/Users/Jealous Khamara/Desktop/secondAngularProject/node_modules/bootstrap/dist/css/font-awesome.min.css",
-              "C:/Users/Jealous Khamara/Desktop/secondAngularProject/node_modules/material-design-icons/iconfont/material-icons.css"
+              "C:/Users/Jealous Khamara/Desktop/secondAngularProject/node_modules/bootstrap/dist/css/font-awesome.min.css"
             ],
             "scripts": [
               "C:/Users/Jealous Khamara/Desktop/secondAngularProject/node_modules/jquery/dist/jquery.min.js",
@@ -99,9 +98,7 @@
             "styles": [
               "src/styles.css",
               "C:/Users/Jealous Khamara/Desktop/secondAngularProject/node_modules/bootstrap/dist/css/bootstrap.min.css", 
-              "C:/Users/Jealous Khamara/Desktop/secondAngularProject/node_modules/bootstrap/dist/css/font-awesome.min.css",
-              "C:/Users/Jealous Khamara/Desktop/secondAngularProject/node_modules/material-design-icons/iconfont/material-icons.css"
-
+              "C:/Users/Jealous Khamara/Desktop/secondAngularProject/node_modules/bootstrap/dist/css/font-awesome.min.css"
             ],
             "scripts": [
               "C:/Users/Jealous Khamara/Desktop/secondAngularProject/node_modules/jquery/dist/jquery.min.js",
