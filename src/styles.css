@@ -1,2 +1,11 @@
 /* You can add global styles to this file, and also import other style files */
-@import "~bootstrap-icons/font/bootstrap-icons.css"
+@import "~bootstrap-icons/font/bootstrap-icons.css";
+
+@font-face {
+    font-family: syne;
+    src: url(assets/fonts/Syne_Mono/SyneMono-Regular.ttf) format('truetype');
+}
+
+.syne {
+    font-family: syne; 
+}
